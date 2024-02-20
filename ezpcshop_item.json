@@ -1,84 +1,82 @@
 {
-  "shop": {
-    "laptop": [
-      {
-        "id": 0,
-        "price": 150000,
-        "productName": "ROG Zephyrus M16 (2023)",
-        "specs": {
-          "cpu": "Intel® Core™ i9-13980HX",
-          "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
-          "monitor": "18\" WQXGA 240Hz",
-          "os": "Windows 11 Pro",
-          "ram": "16GB DDR5"
-        },
-        "stock": 10
+  "shop": [
+    {
+      "id": 0,
+      "price": 150000,
+      "productName": "ROG Zephyrus M16 (2023)",
+      "specs": {
+        "cpu": "Intel® Core™ i9-13980HX",
+        "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
+        "monitor": "18\" WQXGA 240Hz",
+        "os": "Windows 11 Pro",
+        "ram": "16GB DDR5"
       },
-      {
-        "id": 1,
-        "price": 139950,
-        "productName": "ROG Strix G16 (2023)",
-        "specs": {
-          "cpu": "Intel® Core™ i9-13980HX",
-          "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
-          "monitor": "18\" WQXGA 240Hz",
-          "os": "Windows 11 Pro",
-          "ram": "16GB DDR5"
-        },
-        "stock": 10
+      "stock": 10
+    },
+    {
+      "id": 1,
+      "price": 139950,
+      "productName": "ROG Strix G16 (2023)",
+      "specs": {
+        "cpu": "Intel® Core™ i9-13980HX",
+        "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
+        "monitor": "18\" WQXGA 240Hz",
+        "os": "Windows 11 Pro",
+        "ram": "16GB DDR5"
       },
-      {
-        "id": 2,
-        "price": 110000,
-        "productName": "ROG Strix G18 (2023)",
-        "specs": {
-          "cpu": "Intel® Core™ i9-13980HX",
-          "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
-          "monitor": "18\" WQXGA 240Hz",
-          "os": "Windows 11 Pro",
-          "ram": "16GB DDR5"
-        },
-        "stock": 10
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "price": 110000,
+      "productName": "ROG Strix G18 (2023)",
+      "specs": {
+        "cpu": "Intel® Core™ i9-13980HX",
+        "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
+        "monitor": "18\" WQXGA 240Hz",
+        "os": "Windows 11 Pro",
+        "ram": "16GB DDR5"
       },
-      {
-        "id": 3,
-        "price": 130000,
-        "productName": "ROG Strix Scar 18 (2023)",
-        "specs": {
-          "cpu": "Intel® Core™ i9-13980HX",
-          "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
-          "monitor": "18\" WQXGA 240Hz",
-          "os": "Windows 11 Pro",
-          "ram": "16GB DDR5"
-        },
-        "stock": 10
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "price": 130000,
+      "productName": "ROG Strix Scar 18 (2023)",
+      "specs": {
+        "cpu": "Intel® Core™ i9-13980HX",
+        "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
+        "monitor": "18\" WQXGA 240Hz",
+        "os": "Windows 11 Pro",
+        "ram": "16GB DDR5"
       },
-      {
-        "id": 4,
-        "price": 140000,
-        "productName": "ROG Strix Scar 18 (2023)",
-        "specs": {
-          "cpu": "Intel® Core™ i9-13980HX",
-          "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
-          "monitor": "18\" WQXGA 240Hz",
-          "os": "Windows 11 Pro",
-          "ram": "32GB DDR5"
-        },
-        "stock": 10
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "price": 140000,
+      "productName": "ROG Strix Scar 18 (2023)",
+      "specs": {
+        "cpu": "Intel® Core™ i9-13980HX",
+        "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
+        "monitor": "18\" WQXGA 240Hz",
+        "os": "Windows 11 Pro",
+        "ram": "32GB DDR5"
       },
-      {
-        "id": 5,
-        "price": 110000,
-        "productName": "ROG Strix Scar 18 (2023)",
-        "specs": {
-          "cpu": "Intel® Core™ i7-13980HX",
-          "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
-          "monitor": "18\" WQXGA 240Hz",
-          "os": "Windows 11 Pro",
-          "ram": "32GB DDR5"
-        },
-        "stock": 12
-      }
-    ]
-  }
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "price": 110000,
+      "productName": "ROG Strix Scar 18 (2023)",
+      "specs": {
+        "cpu": "Intel® Core™ i7-13980HX",
+        "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
+        "monitor": "18\" WQXGA 240Hz",
+        "os": "Windows 11 Pro",
+        "ram": "32GB DDR5"
+      },
+      "stock": 12
+    }
+  ]
 }
