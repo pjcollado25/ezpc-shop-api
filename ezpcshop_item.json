@@ -4,6 +4,7 @@
       "id": 0,
       "price": 150000,
       "productName": "ROG Zephyrus M16 (2023)",
+      "category": "laptop",
       "specs": {
         "cpu": "Intel® Core™ i9-13980HX",
         "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
@@ -17,6 +18,7 @@
       "id": 1,
       "price": 139950,
       "productName": "ROG Strix G16 (2023)",
+      "category": "laptop",
       "specs": {
         "cpu": "Intel® Core™ i9-13980HX",
         "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
@@ -30,6 +32,7 @@
       "id": 2,
       "price": 110000,
       "productName": "ROG Strix G18 (2023)",
+      "category": "laptop",
       "specs": {
         "cpu": "Intel® Core™ i9-13980HX",
         "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
@@ -43,6 +46,7 @@
       "id": 3,
       "price": 130000,
       "productName": "ROG Strix Scar 18 (2023)",
+      "category": "laptop",
       "specs": {
         "cpu": "Intel® Core™ i9-13980HX",
         "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
@@ -56,6 +60,7 @@
       "id": 4,
       "price": 140000,
       "productName": "ROG Strix Scar 18 (2023)",
+      "category": "laptop",
       "specs": {
         "cpu": "Intel® Core™ i9-13980HX",
         "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
@@ -69,6 +74,7 @@
       "id": 5,
       "price": 110000,
       "productName": "ROG Strix Scar 18 (2023)",
+      "category": "laptop",
       "specs": {
         "cpu": "Intel® Core™ i7-13980HX",
         "gpu": "NVIDIA® GeForce RTX™ 4090 16GB GDDR6",
@@ -77,6 +83,76 @@
         "ram": "32GB DDR5"
       },
       "stock": 12
+    },
+    {
+      "id": 6,
+      "price": 95000,
+      "productName": "Intel Pc Build No. 1",
+      "category": "desktop",
+      "specs": {
+        "cpu": "Intel® Core™ i5-14400F",
+        "gpu": "NVIDIA® GeForce RTX™ 4070 12GB GDDR6",
+        "monitor": "Samsung 27\" Odyssey G4 FHD 240Hz 1ms IPS Gaming Monitor",
+        "os": "No OS",
+        "ram": "32GB DDR5"
+      },
+      "stock": 2
+    },
+    {
+      "id": 7,
+      "price": 50000,
+      "productName": "Intel Pc Budget Build No. 1",
+      "category": "desktop",
+      "specs": {
+        "cpu": "Intel® Core™ i5-12400F",
+        "gpu": "NVIDIA® GeForce RTX™ 4060 8GB GDDR6",
+        "monitor": "Acer Nitro VG0 VG240Y M3MBMIIPX 24\" IPS Full HD Gaming Monitor 180Hz",
+        "os": "No OS",
+        "ram": "16GB DDR5"
+      },
+      "stock": 3
+    },
+    {
+      "id": 8,
+      "price": 52000,
+      "productName": "AMD Pc Budget Build No. 1",
+      "category": "desktop",
+      "specs": {
+        "cpu": "AMD Ryzen 5 5700x",
+        "gpu": "NVIDIA® GeForce RTX™ 4060 8GB GDDR6",
+        "monitor": "Acer Nitro VG0 VG240Y M3MBMIIPX 24\" IPS Full HD Gaming Monitor 180Hz",
+        "os": "No OS",
+        "ram": "16GB DDR5"
+      },
+      "stock": 3
+    },
+    {
+      "id": 9,
+      "price": 120000,
+      "productName": "AMD Pc Build No. 1",
+      "category": "desktop",
+      "specs": {
+        "cpu": "AMD Ryzen 7 7800x3d",
+        "gpu": "NVIDIA® GeForce RTX™ 4080 16GB GDDR6",
+        "monitor": "Samsung 27\" Odyssey G4 FHD 240Hz 1ms IPS Gaming Monitor",
+        "os": "No OS",
+        "ram": "32GB DDR5"
+      },
+      "stock": 1
+    },
+    {
+      "id": 10,
+      "price": 45000,
+      "productName": "AMD Pc Build No. 2",
+      "category": "desktop",
+      "specs": {
+        "cpu": "AMD Ryzen 5 5600",
+        "gpu": "NVIDIA® GeForce RTX™ 3060 12GB GDDR6",
+        "monitor": "Acer Nitro VG0 VG240Y M3MBMIIPX 24\" IPS Full HD Gaming Monitor 180Hz",
+        "os": "No OS",
+        "ram": "32GB DDR5"
+      },
+      "stock": 1
     }
   ]
 }
