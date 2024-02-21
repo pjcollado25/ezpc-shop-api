@@ -2,7 +2,7 @@
   "shop": [
     {
       "id": 0,
-      "price": 150000,
+      "price": 150000.00,
       "productName": "ROG Zephyrus M16 (2023)",
       "category": "laptop",
       "specs": {
@@ -16,7 +16,7 @@
     },
     {
       "id": 1,
-      "price": 139950,
+      "price": 139950.00,
       "productName": "ROG Strix G16 (2023)",
       "category": "laptop",
       "specs": {
@@ -30,7 +30,7 @@
     },
     {
       "id": 2,
-      "price": 110000,
+      "price": 110000.00,
       "productName": "ROG Strix G18 (2023)",
       "category": "laptop",
       "specs": {
@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "price": 130000,
+      "price": 130000.00,
       "productName": "ROG Strix Scar 18 (2023)",
       "category": "laptop",
       "specs": {
@@ -58,7 +58,7 @@
     },
     {
       "id": 4,
-      "price": 140000,
+      "price": 140000.00,
       "productName": "ROG Strix Scar 18 (2023)",
       "category": "laptop",
       "specs": {
@@ -72,7 +72,7 @@
     },
     {
       "id": 5,
-      "price": 110000,
+      "price": 110000.00,
       "productName": "ROG Strix Scar 18 (2023)",
       "category": "laptop",
       "specs": {
@@ -86,7 +86,7 @@
     },
     {
       "id": 6,
-      "price": 95000,
+      "price": 95000.00,
       "productName": "Intel Pc Build No. 1",
       "category": "desktop",
       "specs": {
@@ -100,7 +100,7 @@
     },
     {
       "id": 7,
-      "price": 50000,
+      "price": 50000.00,
       "productName": "Intel Pc Budget Build No. 1",
       "category": "desktop",
       "specs": {
@@ -114,7 +114,7 @@
     },
     {
       "id": 8,
-      "price": 52000,
+      "price": 52000.00,
       "productName": "AMD Pc Budget Build No. 1",
       "category": "desktop",
       "specs": {
@@ -128,7 +128,7 @@
     },
     {
       "id": 9,
-      "price": 120000,
+      "price": 120000.00,
       "productName": "AMD Pc Build No. 1",
       "category": "desktop",
       "specs": {
@@ -142,7 +142,7 @@
     },
     {
       "id": 10,
-      "price": 45000,
+      "price": 45000.00,
       "productName": "AMD Pc Build No. 2",
       "category": "desktop",
       "specs": {
