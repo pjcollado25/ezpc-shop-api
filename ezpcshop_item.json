@@ -4,6 +4,7 @@
       "id": 0,
       "price": 150000.00,
       "productName": "ROG Zephyrus M16 (2023)",
+      "image": "https://github.com/pjcollado25/image-storage/blob/main/laptops/img_rog_strix_g16_2023.png",
       "category": "laptop",
       "specs": [
         "Intel® Core™ i9-13980HX",
